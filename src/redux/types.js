@@ -1,0 +1,2 @@
+export const FETCH_PHOTOS = 'FETCH_PHOTOS'
+export const GET_SINGLE_PHOTO = 'GET_SINGLE_PHOTO'
